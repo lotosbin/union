@@ -1,5 +1,6 @@
 # union
-http://union.yuanjintech.com
+http://union.yuanjingtech.com
+
 内容分享
 
 QQ群： 598603379
